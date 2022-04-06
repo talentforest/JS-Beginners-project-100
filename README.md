@@ -1,4 +1,4 @@
-# JS-Beginners-project-100
+# JS Beginners Project 100
 
 ### Project 1 : Change Background Color
 When you click the button, Background Color will be changed
